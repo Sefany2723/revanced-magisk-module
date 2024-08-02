@@ -7,9 +7,11 @@ enable-magisk-update = false   # set this to false if you do not want to receive
 
 [YouTube]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube" # fallback
+cli-source = "revanced/revanced-cli"
 
 [Music]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
+cli-source = "revanced/revanced-cli"
 arch = "arm64-v8a"
 
 [Music-Extended]
